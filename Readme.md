@@ -88,6 +88,3 @@ Example content of `aes_serial.txt`:
 ...
 ```
 
-## License
-
-This project is licensed under the MIT License.
